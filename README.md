@@ -28,6 +28,6 @@ We would like to have an accuracy per genre of at least 80%. It means that, for 
 * Analyze our accuracies per anime and per genre in details
 * Look for correlations to explore what makes genres easy or hard to predict
 * Explore the relationships between genres
-* Visualized the most significant words for given genres
+* Visualize the most significant words for given genres
 
 #### There are more explanations in the notebook file.
