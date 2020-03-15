@@ -22,11 +22,12 @@ We would like to have an accuracy per genre of at least 80%. It means that, for 
 
 ## Steps
 * Fetch anime data using an API
-* Parse this data into class instances to facilitate processing
-* Create a DataFrame using our data, adding, for each word of the vocabulary, its number of occurrences in each synopsis
-* Implement the Multinomial Naive Bayes algorithm -> calculate constants + classify
-* Compute the accuracy in details
-* Analyze, Visualize and interpret these accuracies
-* Analyze, Visualize and interpret correlations
+* Clean it
+* Prepare for the Naive Bayes algorithm
+* Apply the algorithm to classify animes into genres
+* Analyze our accuracies per anime and per genre in details
+* Look for correlations to explore what makes genres easy or hard to predict
+* Explore the relationships between genres
+* Visualized the most significant words for given genres
 
 #### There are more explanations in the notebook file.
