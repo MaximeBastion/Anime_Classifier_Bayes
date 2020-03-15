@@ -1,4 +1,4 @@
-# Anime Classifier: Multinomial Naïve Bayes
+# Anime Classifier: Multinomial Naive Bayes
 
 #### Work in Progress
 
@@ -7,7 +7,7 @@ Classify animes using their synopses into genres.
 
 | Synopsis | Classification
 | --- | --- |
-| Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans[...] | [Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen]
+| Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans[...] | Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen
 
 ## What is the Naive Bayes algorithm?
 The algorithm we are going to use is the Multinomial Naive Bayes algorithm. It is a simple probabilistic classifier based on applying Bayes' theorem.
