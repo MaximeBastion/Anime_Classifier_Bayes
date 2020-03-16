@@ -1,7 +1,5 @@
 # Anime Classifier: Multinomial Naive Bayes
 
-#### Work in Progress
-
 ## Goal
 Classify animes using their synopses into genres.
 
@@ -12,7 +10,7 @@ Classify animes using their synopses into genres.
 ## What is the Naive Bayes algorithm?
 The algorithm we are going to use is the Multinomial Naive Bayes algorithm. It is a simple probabilistic classifier based on applying Bayes' theorem.
 
-Bayes' theorem describes a conditional probability: the probability of a event given another event.
+Bayes' theorem describes a conditional probability: the probability of an event happening given the fact that another event happened.
 
 The general idea, applied to our problem, is that we are going to compute the "probability" of an anime being of or not being of a particular genre given its synopsis, which means given each word in its synopsis. The highest "probability" between the two will be our verdict.
 The algorithm learns from previously classified animes to classify new ones.
@@ -29,5 +27,6 @@ We would like to have an accuracy per genre of at least 80%. It means that, for 
 * Look for correlations to explore what makes genres easy or hard to predict
 * Explore the relationships between genres
 * Visualize the most significant words for given genres
+* Conclude the project, comment it & visualize the duration of the project
 
 #### There are more explanations in the notebook file.
