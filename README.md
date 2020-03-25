@@ -1,9 +1,23 @@
 # Anime Classifier: Multinomial Naive Bayes
 
 ## The Project in 3 Videos
-[![Animer Classifier Video Part 1](https://img.youtube.com/vi/ZdGfkNaPNVc/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZdGfkNaPNVc)
-[![Animer Classifier Video Part 2](https://img.youtube.com/vi/qjvyhCJLsN4/maxresdefault.jpg)](https://www.youtube.com/watch?v=qjvyhCJLsN4)
-[![Animer Classifier Video Part 3](https://img.youtube.com/vi/C2ObEp81JOU/maxresdefault.jpg)](https://www.youtube.com/watch?v=C2ObEp81JOU)
+
+<a href="https://www.youtube.com/watch?v=ZdGfkNaPNVc">
+         <kbd><img alt="Anime Classifier Video Part 1" src="https://img.youtube.com/vi/ZdGfkNaPNVc/maxresdefault.jpg"
+         width=50%" height="50%"></kbd>
+</a>
+                                
+
+<a href="https://www.youtube.com/watch?v=qjvyhCJLsN4">
+         <kbd><img alt="Anime Classifier Video Part 2" src="https://img.youtube.com/vi/qjvyhCJLsN4/maxresdefault.jpg"
+         width=50%" height="50%"></kbd>
+</a>    
+                                  
+<a href="https://www.youtube.com/watch?v=C2ObEp81JOU">
+         <kbd><img alt="Anime Classifier Video Part 3" src="https://img.youtube.com/vi/C2ObEp81JOU/maxresdefault.jpg"
+         width=50%" height="50%"></kbd>
+</a>
+
 
 ## Goal
 Classify animes using their synopses into genres.
