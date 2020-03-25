@@ -1,6 +1,7 @@
 # Anime Classifier: Multinomial Naive Bayes
 
 ## The Project in 3 Videos
+Note: My native language is French.
 
 <a href="https://www.youtube.com/watch?v=ZdGfkNaPNVc">
          <kbd><img alt="Anime Classifier Video Part 1" src="https://img.youtube.com/vi/ZdGfkNaPNVc/maxresdefault.jpg"
